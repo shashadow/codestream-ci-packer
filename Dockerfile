@@ -1,5 +1,5 @@
-FROM sammcgeown/codestream-ci:latest
-LABEL maintainer="smcgeown@vmware.com"
+FROM shashadow/codestream-ci:latest
+LABEL maintainer="administrator@konyxia.com"
 
 ENV PACKER_VER=1.6.2
 
