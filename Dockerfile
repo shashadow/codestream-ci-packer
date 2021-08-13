@@ -1,4 +1,4 @@
-FROM shashadow/codestream-ci:latest
+FROM shashadow/testfirstrepo:tagname
 LABEL maintainer="administrator@konyxia.com"
 
 ENV PACKER_VER=1.6.2
